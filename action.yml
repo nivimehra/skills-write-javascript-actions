@@ -1,0 +1,10 @@
+name: " joke action"
+description: "this is a description"
+
+outputs:
+  joke:
+    description: "fetched joke"
+
+run:
+  using: node24
+  main: dist/index.js
