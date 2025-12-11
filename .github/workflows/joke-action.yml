@@ -1,4 +1,4 @@
-name: Consume Javascript action
+name: Joke Action
 
 on:
  issue_comment:
